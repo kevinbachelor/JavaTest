@@ -7,5 +7,6 @@ public class Main {
 
 
 				System.out.println("feature1");
+				System.out.println("feature2_main");
 		}
 }
