@@ -7,6 +7,6 @@ public class Main {
 
 
 				System.out.println("feature1");
-				System.out.println("Ein nues feature");
+				System.out.println("main feature");
 		}
 }
